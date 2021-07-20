@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "net.giosis.shopping.jp",
+    "sha256_cert_fingerprints":
+    ["F1:80:C5:FD:47:19:48:A4:7E:EE:C7:ED:DE:99:B3:6E:31:D0:F5:C0:C7:90:4F:5C:5C:E9:D3:C9:5B:D0:29:2B"]
+  }
+}]
